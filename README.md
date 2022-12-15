@@ -14,14 +14,14 @@
 ### Step 4. create a funtion to clear the NONE values:
 <img src="https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step4.png" alt="step" title="step">
 
-### Step 5:
+### Step 5. change the FRSHTT column to be Fog, Rain, Snow, Hail, Thunder, Tornado:
 <img src="https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step5.png" alt="step" title="step">
 
-### Step 6:
+### Step 6. calculate the relative humidity and heat index based on temperature and dew point and their definitions:
 <img src="https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step7.png" alt="step" title="step">
 
-### Step 7:
+### Step 7. create a function to find the nearest weather station for each census tract:
 <img src="https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step8.png" alt="step" title="step">
 
-### Step 8:
+### Step 8. the final dataset:
 <img src="https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step9.png" alt="step" title="step">
