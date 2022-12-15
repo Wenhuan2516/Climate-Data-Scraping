@@ -3,6 +3,7 @@
 
 ## Steps to collect climate data from NOAA and assign the climate record of the weather stations to the nearest census
 ### Step 1:
+https://github.com/Wenhuan2516/Climate-Data-Scraping/blob/main/step1.png
 ### Step 2:
 ### Step 3:
 ### Step 4:
